@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Boeing 777-9 by Lars van Hattum</name>
+            <texture>Liveries-9/7BL.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>LVH</aircraft-operator>
+</sim>
+</PropertyList>

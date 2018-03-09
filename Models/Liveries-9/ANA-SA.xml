@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">ANA All Nippon Airways (Star Alliance)</name>
+            <texture>Liveries-9/ANA-SA.png</texture>
+        </livery>
+        <lights>
+            <texture>Liveries-9/ANA-SA-lights.png</texture>
+        </lights>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>ANA</aircraft-operator>
+</sim>
+</PropertyList>

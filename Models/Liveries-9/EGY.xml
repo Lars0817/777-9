@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">EGY EgyptAir</name>
+            <texture>Liveries-9/EGY.png</texture>
+        </livery>
+        <lights>
+            <texture>Liveries-9/EGY-lights.png</texture>
+        </lights>
+    </model>
+</sim>
+</PropertyList>
